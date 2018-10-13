@@ -12,6 +12,7 @@ Processing by Rails::WelcomeController#index as HTML
 Completed 200 OK in 17ms (Views: 7.0ms | ActiveRecord: 0.0ms)
 
 
+<<<<<<< HEAD
   [1m[35m (0.2ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
   ↳ bin/rake:9
   [1m[35m (111.3ms)[0m  [1m[35mCREATE TABLE "schema_migrations" ("version" varchar NOT NULL PRIMARY KEY)[0m
@@ -726,3 +727,5 @@ Processing by ArticlesController#index as HTML
 Completed 200 OK in 46ms (Views: 43.5ms | ActiveRecord: 0.4ms)
 
 
+=======
+>>>>>>> master
