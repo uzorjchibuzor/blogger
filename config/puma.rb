@@ -31,4 +31,8 @@ environment ENV.fetch("RAILS_ENV") { "development" }
 # preload_app!
 
 # Allow puma to be restarted by `rails restart` command.
+<<<<<<< HEAD
 plugin :tmp_restart
+=======
+plugin :tmp_restart
+>>>>>>> 47ad02c36e80998f1cc5e847ca5579f07428b88c
